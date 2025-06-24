@@ -19,8 +19,9 @@ _Hackpad YSWS Note: Whilst this is an acrylic case and not for 3D printing, I ha
 | Component                             | Quantity |
 |---------------------------------------|----------|
 | Seeed Studio XIAO RP2040              | 1        |
+| Keycaps                               | 9        |
 | Cherry MX Switches                    | 9        |
-| Kailh Sockets                         | 9        |
+| Cherry Kailh Sockets                  | 9        |
 | 1N4148W (SOD123)                      | 9        |
 | 500ohm THT Resistor                   | 1        |
 | WS2812B                               | 6        |
