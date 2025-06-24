@@ -1,5 +1,5 @@
 # MeowPad
-A macropad for all the "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow" fans
+I love cats. You better love cats. Here's a macropad with addressable RGB, hot-swappable switches and an acrylic case to stare at the beautiful cat silkscreen art. Cats my beloved. Cats forever.
 ## Renders
 ![Render 1](https://github.com/Jayx2u/meowpad/blob/main/assets/render.png?raw=true)
 
