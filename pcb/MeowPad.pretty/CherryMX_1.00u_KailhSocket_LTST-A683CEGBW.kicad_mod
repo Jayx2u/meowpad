@@ -1,0 +1,326 @@
+(footprint "CherryMX_1.00u_KailhSocket_LTST-A683CEGBW"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
+	(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW")
+	(property "Reference" "REF**"
+		(at 9.525 -18.1875 0)
+		(layer "F.SilkS")
+		(uuid "a85214a9-f927-446d-9c6b-1306ad448371")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CherryMX_1.00u_KailhSocket_LTST-A683CEGBW"
+		(at 9.525 -0.8625 0)
+		(layer "F.Fab")
+		(uuid "8ed525fa-b5e8-4506-85e0-ae82af418c23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 9.525 -9.525 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee441134-93b6-4a1b-b8fd-c88036221205")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 9.525 -9.525 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c169b39a-8006-4b6b-aca9-0ffebb016cf0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 9.525 -9.525 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a21d5c8e-8261-4450-b052-c18e3ad64267")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 7.525 -6.275)
+		(end 7.525 -5.975)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "fa64c52e-40c6-4281-8b09-62fb8456a39f")
+	)
+	(fp_line
+		(start 7.825 -6.275)
+		(end 7.525 -6.275)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "98a764d9-8864-43c2-afdf-6657d46ab829")
+	)
+	(fp_line
+		(start 2.525 -16.525)
+		(end 2.525 -2.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a31a202-0706-46b4-b287-1d31a812524f")
+	)
+	(fp_line
+		(start 2.525 -16.525)
+		(end 16.525 -16.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ecbb189c-b21e-430b-8974-283af2e1ccc2")
+	)
+	(fp_line
+		(start 16.525 -16.525)
+		(end 16.525 -2.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ea653e2-cf37-4f87-9939-88d20fb41907")
+	)
+	(fp_line
+		(start 16.525 -2.525)
+		(end 2.525 -2.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dd56cfcf-f28b-41a4-ae8c-9374d5dd518d")
+	)
+	(fp_line
+		(start 0 -19.05)
+		(end 19.05 -19.05)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "89ed5bb6-deb3-4396-9fb1-50dd6e51c225")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -19.05)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "505c8e2e-382c-46e8-b623-e9cfa5921cb8")
+	)
+	(fp_line
+		(start 19.05 -19.05)
+		(end 19.05 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ecd5c1ea-514b-4bb0-8f6a-dbda61c6cdcc")
+	)
+	(fp_line
+		(start 19.05 0)
+		(end 0 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4675b5a4-b9a6-4858-aa3c-b4c52d275ead")
+	)
+	(fp_line
+		(start 7.825 -5.975)
+		(end 11.225 -5.975)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "99a7e6fa-319f-4500-b86b-56b283d5eeae")
+	)
+	(fp_line
+		(start 7.825 -2.975)
+		(end 7.825 -5.975)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4e6458f1-1c44-4cc4-a927-3598b01dd755")
+	)
+	(fp_line
+		(start 11.225 -5.975)
+		(end 11.225 -2.975)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "93131765-c724-4a01-ba5c-b2fd7f74bbfe")
+	)
+	(fp_line
+		(start 11.225 -2.975)
+		(end 7.825 -2.975)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "069d8a1b-f843-4acb-8198-a4e8de1ad9c1")
+	)
+	(fp_line
+		(start 1.725 -17.325)
+		(end 1.725 -1.725)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e5f0cd36-9a3a-4b00-9400-9e818cc57f87")
+	)
+	(fp_line
+		(start 1.725 -17.325)
+		(end 17.325 -17.325)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d7c2d3ab-b2f9-4bb3-9e6a-e8ef2f1a9fce")
+	)
+	(fp_line
+		(start 1.725 -1.725)
+		(end 17.325 -1.725)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "31dbaca9-8791-4153-a7e9-4307038d2dd9")
+	)
+	(fp_line
+		(start 17.325 -17.325)
+		(end 17.325 -1.725)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "867e670c-216b-4cca-90c4-94d412b2a7dc")
+	)
+	(pad "" np_thru_hole circle
+		(at 5.715 -12.065)
+		(size 3 3)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "6d73204d-5a11-4298-b338-eb74f0256890")
+	)
+	(pad "" np_thru_hole circle
+		(at 9.525 -9.525)
+		(size 4 4)
+		(drill 4)
+		(layers "*.Cu" "*.Mask")
+		(uuid "24bbfb25-6159-4ee8-8e59-e4445ed05920")
+	)
+	(pad "" np_thru_hole circle
+		(at 12.065 -14.605)
+		(size 3 3)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "a4e6a839-1814-4140-8ed3-dfac71b53a5f")
+	)
+	(pad "1" smd rect
+		(at 2.115 -12.065)
+		(size 2.55 2.5)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "0c1f4b00-9ac5-4ed2-8a57-ce4528e28cd7")
+	)
+	(pad "2" smd rect
+		(at 15.54 -14.605)
+		(size 2.55 2.5)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "0db70bb8-8d42-4373-9d58-11ebb7d4a3f4")
+	)
+	(pad "3" smd rect
+		(at 6.925 -5.225)
+		(size 1.8 0.9)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "1fa409e5-e7a7-4bab-96d5-9bc2fb0021f0")
+	)
+	(pad "4" smd rect
+		(at 6.925 -3.725)
+		(size 1.8 0.9)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "b3f1d194-aa6a-4200-8c07-b5b8cdadd26d")
+	)
+	(pad "5" smd rect
+		(at 12.125 -5.225)
+		(size 1.8 0.9)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "c4654bcd-4cef-482e-b29c-86c338b7eae0")
+	)
+	(pad "6" smd rect
+		(at 12.125 -3.725)
+		(size 1.8 0.9)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "1d5345db-64ff-4c62-97e3-e57677e0ea64")
+	)
+	(model "${KIPRJMOD}/models/KailhSocket.stp"
+		(offset
+			(xyz 8.925 13.325 -3.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+	(model "${KIPRJMOD}/models/LTST-A683CEGBW.step"
+		(offset
+			(xyz 9.525 4.475 -1.87)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

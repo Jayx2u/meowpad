@@ -1,0 +1,256 @@
+(footprint "CherryMX_1.00u_KailhSocket"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none")
+	(tags "CherryMX 1.00u KailhSocket")
+	(property "Reference" "REF**"
+		(at 0 -8.6625 0)
+		(layer "B.SilkS")
+		(uuid "eb9c75c0-6dbc-4e27-81fd-fa6e3ed2df4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Value" "CherryMX_1.00u_KailhSocket"
+		(at 0 8.6625 0)
+		(layer "F.Fab")
+		(uuid "219856f4-46ca-4bc3-9fae-514390667397")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b6101d0-6e86-46bb-b5b3-16af404e8c2e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32d77e2b-34bf-410d-bc2f-fa1534761048")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3da554b-fb40-41d7-9995-25d079ffd30b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -9.525 -9.525)
+		(end 9.525 -9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "40feade8-20cb-4b7b-ac95-bd2cd7bf1bc8")
+	)
+	(fp_line
+		(start -9.525 9.525)
+		(end -9.525 -9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "aa9e8586-ccb7-4da7-86e0-12f0f12c9b00")
+	)
+	(fp_line
+		(start -7 -7)
+		(end -7 7)
+		(stroke
+			(width 0.12)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "09550b94-6486-4cd1-ac07-579b32e8b09c")
+	)
+	(fp_line
+		(start -7 -7)
+		(end 7 -7)
+		(stroke
+			(width 0.12)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "625d9282-32e1-4d99-b73c-433ea7998276")
+	)
+	(fp_line
+		(start 7 -7)
+		(end 7 7)
+		(stroke
+			(width 0.12)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "5507c3cf-410a-438b-bd6f-fde7bd7ce94d")
+	)
+	(fp_line
+		(start 7 7)
+		(end -7 7)
+		(stroke
+			(width 0.12)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "47e15b8a-e20a-4bd3-97de-55c3692b0bfc")
+	)
+	(fp_line
+		(start 9.525 -9.525)
+		(end 9.525 9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "f95b5b87-9df7-4865-97e3-3b0fab83c3ba")
+	)
+	(fp_line
+		(start 9.525 9.525)
+		(end -9.525 9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "892d5850-5eb6-4c56-a205-ffedab49d5ae")
+	)
+	(fp_line
+		(start -7.8 -7.8)
+		(end -7.8 7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "44beaf51-2945-4181-be44-1b50851f27bb")
+	)
+	(fp_line
+		(start -7.8 -7.8)
+		(end 7.8 -7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6bbc9e73-4807-4c8c-b035-ebd7b06345f7")
+	)
+	(fp_line
+		(start -7.8 7.8)
+		(end 7.8 7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2b8f2270-fab9-47f3-aabe-f4af5fa3ce02")
+	)
+	(fp_line
+		(start 7.8 -7.8)
+		(end 7.8 7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0709643c-35b4-41ac-9d44-9dc88b210f63")
+	)
+	(pad "" np_thru_hole circle
+		(at -5.1 0)
+		(size 1.7 1.7)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(uuid "85336220-4719-4726-a27a-66b0a0fbb7ae")
+	)
+	(pad "" np_thru_hole circle
+		(at -3.81 -2.54)
+		(size 3 3)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "2a0d3e8c-fc14-43a3-8b62-9f0a1983c3c0")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 4 4)
+		(drill 4)
+		(layers "*.Cu" "*.Mask")
+		(uuid "f21390a1-3840-4da0-83f3-0a7a9db0396d")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.54 -5.08)
+		(size 3 3)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "8c228676-6427-448c-8f7d-19d4dbbb3472")
+	)
+	(pad "" np_thru_hole circle
+		(at 5.06 0)
+		(size 1.7 1.7)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(uuid "d91df4d4-f2b3-40cb-b486-b2383b7f0f7c")
+	)
+	(pad "1" smd rect
+		(at -7.41 -2.54)
+		(size 2.55 2.5)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "1e5d7248-7d5a-473c-9ad6-4059d2f779fc")
+	)
+	(pad "2" smd rect
+		(at 6.015 -5.08)
+		(size 2.55 2.5)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "975af0a4-a6a4-419c-85d7-7d46e3db974c")
+	)
+	(model "${KIPRJMOD}/JayPad.3dshapes/KailhSocket.stp"
+		(offset
+			(xyz -0.6 3.9 -3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+	(model "${KIPRJMOD}/JayPad.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(offset
+			(xyz 2.5 5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
